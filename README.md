@@ -2,7 +2,7 @@
 
 小英子是一只自定义 Codex 动画宠物：戴深蓝色棒球帽、背红色背包的可爱人形小伙伴。
 
-![小英子精灵图](xiaoyingzi/spritesheet.webp)
+![小英子精灵图](spritesheet.webp)
 
 ## 文件结构
 
